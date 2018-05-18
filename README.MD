@@ -1,6 +1,6 @@
-#QuickQuiz Server
+# QuickQuiz Server
 
-###Info
+### Info
 
 This server makes use of Spring Framework to provide
 data and business logic operations
