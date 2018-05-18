@@ -1,0 +1,4 @@
+.idea/
+quickquizserver.iml
+target/
+src/main/resources/application.properties
